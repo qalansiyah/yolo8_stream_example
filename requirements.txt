@@ -1,0 +1,8 @@
+fastapi==0.103.2
+kafka-python==2.0.2
+pyspark==3.5.0
+ultralytics==8.0.192
+uvicorn==0.23.2
+opencv-python==4.8.1.78
+imageio-ffmpeg==0.4.9
+imutils==0.5.4
